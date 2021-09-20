@@ -1,4 +1,3 @@
-
 const letterPositions = function(sentence){
 const results = {};
 let i = 0;
